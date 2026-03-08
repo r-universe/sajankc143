@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/sajankc143/sajankc143.r-universe.dev
 	branch = HEAD
+[submodule "rbutterflyexplorers"]
+	path = rbutterflyexplorers
+	url = https://github.com/sajankc143/rbutterflyexplorers
